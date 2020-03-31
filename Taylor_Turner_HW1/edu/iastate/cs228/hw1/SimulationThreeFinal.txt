@@ -1,0 +1,10 @@
+B0 E  B0 E  E  R0 E  R0 R2 E  
+G  E  B0 R0 B4 R0 E  R0 R3 R1 
+G  G  R2 R0 E  R0 R0 E  E  E  
+G  F5 R3 R0 E  R0 R0 E  E  R0 
+R2 E  E  E  R0 R0 E  E  B1 G  
+R0 R0 R0 R0 R0 E  B1 R0 G  G  
+E  E  R0 E  R0 E  B1 R0 G  G  
+B4 E  R0 E  R0 E  E  E  R0 G  
+G  R2 R3 E  R0 E  R0 R3 R1 G  
+G  R0 R1 E  R0 E  R0 R2 R0 G  

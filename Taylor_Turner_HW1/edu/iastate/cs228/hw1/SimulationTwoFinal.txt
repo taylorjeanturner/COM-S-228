@@ -1,0 +1,6 @@
+R0 E  R0 E  B3 G  
+E  E  E  R0 R1 R3 
+R0 R0 R0 E  E  R0 
+E  E  E  E  R0 G  
+R0 E  E  R0 G  G  
+E  R0 R0 F1 G  G  
